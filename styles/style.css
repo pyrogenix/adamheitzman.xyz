@@ -5,7 +5,7 @@
 .center {
     margin: 0 auto;
     text-align: center;
-    width: 100%;
+    /* width: 100%; */
 } 
 
 #title {
@@ -56,8 +56,8 @@
 .content {
     font-family: "Garamond", "Times New Roman", Times, serif;
     font-size: 22px;
-    margin-left: 30%;
-    margin-right: 30%;
+    /* margin-left: 10%;
+    margin-right: 10%; */
 }
 
 #header {
@@ -83,3 +83,43 @@ img {
     margin-left: 35%;
     margin-right: 35%;
 }
+
+.link {
+    text-decoration: none;
+    color: #1e1e1e
+}
+
+.smtxt {
+    font-size: 18px;
+}
+
+.bold {
+ font-weight: bold;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  }
+  
+.tooltip .tooltiptext {
+visibility: hidden;
+width: 150%;
+background-color: #1e1e1e;
+color: #eeeeee;
+text-align: center;
+padding: 5px 0;
+border-radius: 6px;
+font-size: 18px;
+padding: 5px;
+
+position: absolute;
+left: 102%;
+top: -150%;
+z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
