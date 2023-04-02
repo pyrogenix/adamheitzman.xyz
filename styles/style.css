@@ -9,7 +9,7 @@
 } 
 
 #title {
-    font-family: "Garamond", "Times New Roman", Times, serif;
+    font-family: "Arial", "Garamond", "Times New Roman", Times, serif;
     font-size: 64px;
     letter-spacing: 6px;
     margin-top: 12px;
@@ -17,7 +17,7 @@
 }
 
 #subt {
-    font-family: "Garamond", "Times New Roman", Times, serif;
+    font-family: "Arial", "Garamond", "Times New Roman", Times, serif;
     font-size: 28px;
     font-style: italic;
     margin-top: 8px;
@@ -30,7 +30,8 @@
     /* width: 160px;
     height: 40px; */
     border-radius: 8px;
-    font-family: "Trebuchet MS", "Verdana", "Garamond", "Times New Roman", serif;
+    font-family: "Arial", "Trebuchet MS", "Verdana", "Garamond", "Times New Roman", serif;
+    text-align: center;
     letter-spacing: 3px;
     font-size: 22px;
     font-weight: 800;
@@ -54,8 +55,8 @@
 }
 
 .content {
-    font-family: "Garamond", "Times New Roman", Times, serif;
-    font-size: 22px;
+    font-family: "Arial", "Garamond", "Times New Roman", Times, serif;
+    font-size: 20px;
     /* margin-left: 10%;
     margin-right: 10%; */
 }
@@ -114,22 +115,30 @@ img {
   }
   
 .tooltip .tooltiptext {
-visibility: hidden;
-width: 150%;
-background-color: #1e1e1e;
-color: #eeeeee;
-text-align: center;
-padding: 5px 0;
-border-radius: 6px;
-font-size: 18px;
-padding: 5px;
+    visibility: hidden;
+    width: 150%;
+    background-color: #1e1e1e;
+    color: #eeeeee;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-size: 18px;
+    padding: 5px;
 
-position: absolute;
-left: 102%;
-top: -150%;
-z-index: 1;
+    position: absolute;
+    left: 102%;
+    top: -150%;
+    z-index: 1;
 }
 
 .tooltip:hover .tooltiptext {
     visibility: visible;
   }
+
+#chome {
+    padding-left: 12px;
+}
+
+#cabout {
+    padding-left: 2px;
+}
