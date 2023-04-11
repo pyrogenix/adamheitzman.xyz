@@ -204,3 +204,45 @@ ul {
 .margtop {
     margin-top: 20px;
 }
+
+/* Transtion margins for smaller screens/windows/mobile*/
+@media screen and (max-width:1500px) {
+    .marg {
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    .shortline {
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    img {
+        width: 380px
+    }
+    
+}
+
+/* For mobile users */
+@media screen and (max-width:1200px) {
+    .marg {
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+    .shortline {
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+    #title {
+        font-size: 60px;
+    }
+    .tooltip {
+        border: none;
+    }
+    .tooltiptext {
+        display: none;
+        width: 75%;
+    }
+    body {
+        padding-bottom: 100px;
+    }
+    
+}
