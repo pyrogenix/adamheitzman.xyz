@@ -13,7 +13,7 @@
     --bgdark2: #202020;
 
     /* Margins */
-    --marg: 34%;
+    --marg: 32%;
     --marg2: 25%;
     --marg3: 15%;
 }
@@ -29,11 +29,14 @@
     text-align: center;
     /* width: 100%; */
 } 
+.y {
+    color: var(--yellow);
+}
 
 #title {
     font-family: "Arial", "Garamond", "Times New Roman", Times, serif;
     font-size: 64px;
-    letter-spacing: 6px;
+    letter-spacing:.12em;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -112,6 +115,8 @@ img {
     margin-right: auto;
     width: 400px;
     height: auto;
+    /* height: 300px; */
+    /* object-fit: cover; */
     border-radius: 25px;
     border: 4px solid var(--yellow);
 }
@@ -251,6 +256,9 @@ ul {
     }
     img {
         width: 380px
+    }
+    #title {
+        letter-spacing: 6px;
     }
     
 }
