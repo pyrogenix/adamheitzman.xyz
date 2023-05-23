@@ -7,6 +7,7 @@
     --darkyellow: #b39132;
     --lightyellow: #ffe291;
     --text: #eeeeee;
+    --textdark: #a1a1a1;
     --dark: #1e1e1e;
     --bglight: aliceblue;
     --bgdark1: #1b1b1b;
@@ -109,11 +110,24 @@
     margin-right: var(--marg);
   }
 
-img {
+.img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 400px;
+    height: auto;
+    /* height: 300px; */
+    /* object-fit: cover; */
+    border-radius: 25px;
+    border: 4px solid var(--yellow);
+}
+
+.img_2 {
+    /* display: block; */
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
     height: auto;
     /* height: 300px; */
     /* object-fit: cover; */
@@ -131,6 +145,11 @@ img {
     color: var(--blue);
 }
 
+.link_w {
+    text-decoration: none;
+    color: var(--text);
+}
+
 .linknc {
     text-decoration: none;
     color: var(--yellow);
@@ -138,6 +157,11 @@ img {
 
 .link:hover{
     color: var(--darkblue);
+}
+
+.link_w:hover {
+    text-decoration: none;
+    color: var(--textdark);
 }
 
 .smtxt {
