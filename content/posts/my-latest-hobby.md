@@ -6,6 +6,8 @@ draft = false
 
 It seems that time has come again. I have added another new hobby to my repertoire. Possibly two if you count the fact that I own 2 fountain pens and would like to acquire more. But that is not the focus of today, rather, my latest obsession is with Japanese Incense. Not only is the aroma something that can be savored on its own, it is also the perfect companion for my tea sessions.
 
+![incense colletion](/incense_collection.jpg)
+
 I started off with a box of Shoyeido's *Nokiba* ("moss garden"), and so far, I think it's still my favorite. Being a cheap daily incense makes it even better! It's sweet, resinous, woody, and vanillic, with a bit of patchouli and a slightly herbal character. Although it was my first incense, it smelled very familiar even on its first burn. Perhaps I had smelled it once before when visiting Japan almost 8 years ago.
 
 As of now, I also have a small pack of Minorien's *Fuuin Byakudan* and Baieido's *Kai Un Koh*, which are both very dry and woody with a focus on Sandalwood and Aloeswood respectively.
