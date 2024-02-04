@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Meditations",
+    "author_last": "Aurelius",
+    "author_first": "Marcus",
+    "genre": "phil"
+  },
+  {
+    "title": "Bronze Age Mindset",
+    "author_last": "Bronze Age Pervert",
+    "genre": "phil"
+  },
+  {
+    "title": "Designing the Mind: The Principles of Psychitecture",
+    "author_last": "Bush",
+    "author_first": "Ryan",
+    "genre": "psych"
+  },
+  {
+    "title": "How to Win Friends and Infleunce People",
+    "author_last": "Carnegie",
+    "author_first": "Dale",
+    "genre": "psych"
+  }
+]

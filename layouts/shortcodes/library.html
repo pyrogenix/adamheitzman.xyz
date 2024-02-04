@@ -1,0 +1,8 @@
+{{ range .Site.Data.library }}
+
+<li>
+{{ .author_last }}{{ if .author_first}}, {{ .author_first }}{{end}} - {{.title}}
+</li>
+
+{{ end }}
+

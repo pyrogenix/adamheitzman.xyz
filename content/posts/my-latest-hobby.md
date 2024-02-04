@@ -2,6 +2,7 @@
 title = 'My Latest Hobby'
 date = 2023-04-09T22:16:26-07:00
 draft = false
+tags = ['personal', 'hobby']
 +++
 
 It seems that time has come again. I have added another new hobby to my repertoire. Possibly two if you count the fact that I own 2 fountain pens and would like to acquire more. But that is not the focus of today, rather, my latest obsession is with Japanese Incense. Not only is the aroma something that can be savored on its own, it is also the perfect companion for my tea sessions.

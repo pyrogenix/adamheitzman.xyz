@@ -1,7 +1,28 @@
+:root {
+    /* Colors */
+    --blue: #4778ff;
+    --darkblue: #3254b3;
+    --lightblue: #91aeff;
+    --yellow: #ffce47;
+    --darkyellow: #b39132;
+    --lightyellow: #ffe291;
+    --text: #ccc;
+    --textdark: #a1a1a1;
+    --dark: #1e1e1e;
+    --bglight: aliceblue;
+    --bgdark1: #1b1b1b;
+    --bgdark2: #202020;
+
+    /* Margins */
+    --marg: 30%;
+    --marg2: 25%;
+    --marg3: 15%;
+}
+
 body {
 	font-family: sans-serif ;
-	background: #110000 ;
-	color: #ccc ;
+	background: var(--bgdark2) ;
+	color: var(--text) ;
 }
 
 main {
@@ -42,4 +63,100 @@ footer {
 }
 #nextart,#prevart {
 	max-width: 33% ;
+}
+
+/* My Stuff Again */
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+    /* width: 100%; */
+} 
+.y {
+    color: var(--yellow);
+}
+
+#title {
+    font-size: 64px;
+    letter-spacing:.12em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#title2 {
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#subt {
+    font-size: 28px;
+    font-style: italic;
+    margin-top: 10px;
+    color: var(--lightyellow);
+}
+
+.subsubt{
+    font-size: 24px;
+    color: var(--yellow);
+}
+
+.content {
+    font-size: 20px;
+    color: var(--text);
+}
+
+.shortline {
+    margin-left: var(--marg);
+    margin-right: var(--marg);
+  }
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+    /* height: 300px; */
+    /* object-fit: cover; */
+    border-radius: 25px;
+    border: 4px solid var(--yellow);
+}
+
+.marg {
+    margin-left: var(--marg);
+    margin-right: var(--marg);
+}
+
+.link {
+    text-decoration: none;
+    color: var(--blue);
+}
+
+.link_w {
+    text-decoration: none;
+    color: var(--text);
+}
+
+.linknc {
+    text-decoration: none;
+    color: var(--yellow);
+}
+
+.link:hover{
+    color: var(--darkblue);
+}
+
+.link_w:hover {
+    text-decoration: none;
+    color: var(--textdark);
+}
+
+.smtxt {
+    font-size: 16px;
+    color: var(--text);
+}
+
+.bold {
+ font-weight: bold;
 }

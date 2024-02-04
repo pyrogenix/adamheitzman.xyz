@@ -2,6 +2,7 @@
 title = 'A Quick Update'
 date = 2023-05-22T13:07:50-07:00
 draft = false
+tags = ['personal', 'updates']
 +++
 I figured I'd make this post just as a quick update on my life and what's been going on. I have recently accepted an offer to work as a Software Support Agent for Sonoran Software Systems in Prescott, I hope I can learn a lot and gain some basic experience in the tech industry so that I can eventually move on to working in systems or software developement.
 
