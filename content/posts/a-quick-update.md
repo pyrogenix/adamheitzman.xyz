@@ -10,6 +10,7 @@ In other news, I have placed two decent sized tea orders in the last week, one i
 
 Another new hobby of mine is fountain pens. I recieved a Sailor Pro Gear Imperial Black fountain pen with a fine nib as a graduation present from my parents. So far, I love it. It looks super sleek and writes incredibly smoothly whilst also providing some feedback. I have found I barely need to press at all and it just glides along the paper like butter. 
 
-![sailor pen](/sailor_pen.jpg)
-
-![sailor nib](/sailor_nib.jpg)
+<img src="/sailor_pen.jpg" class="img" alt="sailor pen">
+<br>
+<img src="/sailor_nib.jpg" class="img" alt="sailor nib">
+<br>
