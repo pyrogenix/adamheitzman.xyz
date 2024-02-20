@@ -1,7 +1,80 @@
+{{ $phil := 0}}
+{{ $psych := 0 }}
+{{ $hist :=0}}
+{{ $reli :=0}}
+{{ $oldlit :=0}}
+{{ $classiclit :=0}}
+{{ $contemplit :=0}}
+{{ $bio :=0}}
+{{ $tea :=0}}
+{{ $nonfiction :=0}}
+{{ $lang :=0}}
+{{ $manga :=0}}
+{{ $art :=0}}
+
+<h2>Inspired by <a href="https://lukesmith.xyz/library/" class="link_w">Luke Smith</a>. Much like with his personal library:</h2>
+<p><i>"I haven't read every book here, nor do I own all the books I've read or like. I also don't necessarily like all the books I own."</i></p>
+
+<p>I may one day reorganize this list by LCC classification, but for now it's sorted into my own categories. Deal with it.</p>
+
 {{ range .Site.Data.library }}
 
-<li>
-{{ .author_last }}{{ if .author_first}}, {{ .author_first }}{{end}} - {{.title}}
+{{ if and (eq .genre "phil") (eq $phil 0)}}
+<h2 class="center libtitle">Philosophy & Political Science</h2><br>
+{{ $phil = 1}}
+
+{{ else if and (eq .genre "psych") (eq $psych 0)}}
+<br><h2 class="center libtitle">Self-Help & Psychology</h2><br>
+{{ $psych = 1}}
+
+{{ else if and (eq .genre "hist") (eq $hist 0)}}
+<br><h2 class="center libtitle">History</h2><br>
+{{ $hist = 1}}
+
+{{ else if and (eq .genre "reli") (eq $reli 0)}}
+<br><h2 class="center libtitle">Religion & Theology, Spirituality</h2><br>
+{{ $reli = 1}}
+
+{{ else if and (eq .genre "oldlit") (eq $oldlit 0)}}
+<br><h2 class="center libtitle">Classical & Medieval Literature, Mythology ( < 1500 AD)</h2><br>
+{{ $oldlit = 1}}
+
+{{ else if and (eq .genre "classiclit") (eq $classiclit 0)}}
+<br><h2 class="center libtitle">Classic Literature (1500 - 1950)</h2><br>
+{{ $classiclit = 1}}
+
+{{ else if and (eq .genre "contemplit") (eq $contemplit 0)}}
+<br><h2 class="center libtitle">Contemporary Literature (1950 - Pres.)</h2><br>
+{{ $contemplit = 1}}
+
+{{ else if and (eq .genre "bio") (eq $bio 0)}}
+<br><h2 class="center libtitle">Memoir, Biography & Autobiography</h2><br>
+{{ $bio = 1}}
+
+{{ else if and (eq .genre "tea") (eq $tea 0)}}
+<br><h2 class="center libtitle">Tea</h2><br>
+{{ $tea = 1}}
+
+{{ else if and (eq .genre "nonfiction") (eq $nonfiction 0)}}
+<br><h2 class="center libtitle">Nonfiction (Other)</h2><br>
+{{ $nonfiction = 1}}
+
+{{ else if and (eq .genre "lang") (eq $lang 0)}}
+<br><h2 class="center libtitle">Language</h2><br>
+{{ $lang = 1}}
+
+{{ else if and (eq .genre "manga") (eq $manga 0)}}
+<br><h2 class="center libtitle">Manga</h2><br>
+{{ $manga = 1}}
+
+{{ else if and (eq .genre "art") (eq $art 0)}}
+<br><h2 class="center libtitle">Photography & Art Books</h2><br>
+{{ $art = 1}}
+
+{{end}}
+
+<li class="liblist">
+{{ .author_last }}{{ if .author_first}}, {{ .author_first }}{{end}} – <i>{{.title}}</i>
 </li>
 
 {{ end }}
