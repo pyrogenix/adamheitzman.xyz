@@ -2,6 +2,7 @@
 title = 'Upcoming Travels'
 date = 2024-04-22T09:23:10-07:00
 draft = false
+tags = ['personal', 'updates', 'travel']
 +++
 
 This summer, I will be out of the country for the last week of may and all of June. 
