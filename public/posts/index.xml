@@ -1,59 +1,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Adam Heitzman</title>
-	<link>http://localhost:1313/posts/</link>
+	<link>https://adamheitzman.xyz/posts/</link>
 	<description>Recent content in Posts on Adam Heitzman</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Sun, 18 Feb 2024 14:06:45 -0700</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://adamheitzman.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>My New Album</title>
-		<link>http://localhost:1313/posts/my-new-album/</link>
+		<link>https://adamheitzman.xyz/posts/my-new-album/</link>
 		<pubDate>Sun, 18 Feb 2024 14:06:45 -0700</pubDate>
 		
-		<guid>http://localhost:1313/posts/my-new-album/</guid>
+		<guid>https://adamheitzman.xyz/posts/my-new-album/</guid>
 		<description>&lt;p&gt;A little over a week ago, I released a new album under my brand new Winter Synth project &lt;em&gt;Shrouded Hermit&lt;/em&gt;. It also happens to be the fist time I&amp;rsquo;ve ever fully completed and published a full album under any project.&lt;/p&gt;
 &lt;p&gt;Produced during the summer and autumn of 2023, this album tries to capture the feelings of desolation, cold, and&amp;hellip;comfort. Whether you&amp;rsquo;re wandering through a dark forest in the depths of winter, or exploring an abandoned fortress after dark, this album is for lonely hermit who walks the world on his own terms.&lt;/p&gt;
 &lt;p&gt;If this sounds interesting to you, you can listen to and purchase it on &lt;a href=&#34;https://shroudedhermit.bandcamp.com/album/cold-hands&#34;&gt;Bandcamp&lt;/a&gt;. Alternatively, you can give it a listen on &lt;a href=&#34;https://www.youtube.com/watch?v=uU2rJ0vvsXo&#34;&gt;YouTube&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Due to the obscurity of this project, it is not currently available on streaming services nor is there any physical release. Thus, if you would like to support my musical endeavors, a digital purchase would be greatly appreciated!&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;center&#34; id=&#34;coldhands-a&#34; href=&#34;https://shroudedhermit.bandcamp.com/album/cold-hands&#34;&gt;&lt;img src=&#34;http://localhost:1313/coldhands.jpg&#34; id=&#34;coldhands&#34; alt=&#34;cold hands album cover&#34;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a class=&#34;center&#34; id=&#34;coldhands-a&#34; href=&#34;https://shroudedhermit.bandcamp.com/album/cold-hands&#34;&gt;&lt;img src=&#34;https://adamheitzman.xyz/coldhands.jpg&#34; id=&#34;coldhands&#34; alt=&#34;cold hands album cover&#34;&gt;&lt;/a&gt;
 &lt;br&gt;&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>A Quick Update</title>
-		<link>http://localhost:1313/posts/a-quick-update/</link>
+		<link>https://adamheitzman.xyz/posts/a-quick-update/</link>
 		<pubDate>Mon, 22 May 2023 13:07:50 -0700</pubDate>
 		
-		<guid>http://localhost:1313/posts/a-quick-update/</guid>
+		<guid>https://adamheitzman.xyz/posts/a-quick-update/</guid>
 		<description>&lt;p&gt;I figured I&amp;rsquo;d make this post just as a quick update on my life and what&amp;rsquo;s been going on. I have recently accepted an offer to work as a Software Support Agent for Sonoran Software Systems in Prescott, I hope I can learn a lot and gain some basic experience in the tech industry so that I can eventually move on to working in systems or software developement.&lt;/p&gt;
 &lt;p&gt;In other news, I have placed two decent sized tea orders in the last week, one is a big Shincha order from Thes du Japon, and the other is a wide variety of Chinese teas and a new gaiwan from Nannuoshan. I went for such a variety because for the last year or two I have been almost exclusively drinking Japanese tea (with the exception of puerh). As such, I have almost no Chinese teas (that aren&amp;rsquo;t puerh) in my collection so I figured I&amp;rsquo;d hit a wide range of types to replenish it.&lt;/p&gt;
 &lt;p&gt;Another new hobby of mine is fountain pens. I recieved a Sailor Pro Gear Imperial Black fountain pen with a fine nib as a graduation present from my parents. So far, I love it. It looks super sleek and writes incredibly smoothly whilst also providing some feedback. I have found I barely need to press at all and it just glides along the paper like butter.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/sailor_pen.jpg&#34; class=&#34;img&#34; alt=&#34;sailor pen&#34;&gt;
+&lt;img src=&#34;https://adamheitzman.xyz/sailor_pen.jpg&#34; class=&#34;img&#34; alt=&#34;sailor pen&#34;&gt;
 &lt;br&gt;
-&lt;img src=&#34;http://localhost:1313/sailor_nib.jpg&#34; class=&#34;img&#34; alt=&#34;sailor nib&#34;&gt;
+&lt;img src=&#34;https://adamheitzman.xyz/sailor_nib.jpg&#34; class=&#34;img&#34; alt=&#34;sailor nib&#34;&gt;
 &lt;br&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>My Latest Hobby</title>
-		<link>http://localhost:1313/posts/my-latest-hobby/</link>
+		<link>https://adamheitzman.xyz/posts/my-latest-hobby/</link>
 		<pubDate>Sun, 09 Apr 2023 22:16:26 -0700</pubDate>
 		
-		<guid>http://localhost:1313/posts/my-latest-hobby/</guid>
+		<guid>https://adamheitzman.xyz/posts/my-latest-hobby/</guid>
 		<description>&lt;p&gt;It seems that time has come again. I have added another new hobby to my repertoire. Possibly two if you count the fact that I own 2 fountain pens and would like to acquire more. But that is not the focus of today, rather, my latest obsession is with Japanese Incense. Not only is the aroma something that can be savored on its own, it is also the perfect companion for my tea sessions.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/incense_collection.jpg&#34; class=&#34;img&#34; alt=&#34;incense collection&#34;&gt;
+&lt;img src=&#34;https://adamheitzman.xyz/incense_collection.jpg&#34; class=&#34;img&#34; alt=&#34;incense collection&#34;&gt;
 &lt;p&gt;I started off with a box of Shoyeido&amp;rsquo;s &lt;em&gt;Nokiba&lt;/em&gt; (&amp;ldquo;moss garden&amp;rdquo;), and so far, I think it&amp;rsquo;s still my favorite. Being a cheap daily incense makes it even better! It&amp;rsquo;s sweet, resinous, woody, and vanillic, with a bit of patchouli and a slightly herbal character. Although it was my first incense, it smelled very familiar even on its first burn. Perhaps I had smelled it once before when visiting Japan almost 8 years ago.&lt;/p&gt;
 &lt;p&gt;As of now, I also have a small pack of Minorien&amp;rsquo;s &lt;em&gt;Fuuin Byakudan&lt;/em&gt; and Baieido&amp;rsquo;s &lt;em&gt;Kai Un Koh&lt;/em&gt;, which are both very dry and woody with a focus on Sandalwood and Aloeswood respectively.&lt;/p&gt;
 &lt;p&gt;For my non fragrant friends, aloeswood is another name for agarwood, more commonly known as oud. Fans of middle eastern style perfumery will be very familiar with this note.&lt;/p&gt;
 &lt;p&gt;I also purchased a sample set of Shoyeido&amp;rsquo;s &lt;em&gt;Horin&lt;/em&gt; line, with &lt;em&gt;Shirakawa&lt;/em&gt;, &lt;em&gt;Nijo&lt;/em&gt;, and &lt;em&gt;Muromachi&lt;/em&gt; being my favorites as well as a sample box of &lt;em&gt;Horikawa&lt;/em&gt; which is unfortunately not included in the main sample set.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/incense_burning.jpg&#34; class=&#34;img&#34; alt=&#34;incense burning&#34;&gt;
+&lt;img src=&#34;https://adamheitzman.xyz/incense_burning.jpg&#34; class=&#34;img&#34; alt=&#34;incense burning&#34;&gt;
 &lt;p&gt;Below are some quick reviews of each &lt;em&gt;Horin&lt;/em&gt; incense. Please note that I have only smelled each one once as of the time I am writing this, so my opinions may change with subsequent burnings.&lt;/p&gt;
 &lt;sub&gt;
 &lt;p&gt;&lt;strong&gt;Tenpyo&lt;/strong&gt;: Very deep, earthy, peaty, and woody. Almost fecal, must have a certain blend of oud. Smells very familiar and rustic in a way I can&amp;rsquo;t put my finger on. I can&amp;rsquo;t say I like it now, but I&amp;rsquo;m sure it will one day comfort me like a dram of Laphroaig.&lt;/p&gt;
