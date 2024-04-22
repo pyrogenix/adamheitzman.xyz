@@ -1,6 +1,6 @@
 <hr>
 <h1 id="" class="center title">Recent Posts</h1>
-{{range where .Site.RegularPages "Section" "posts" | first 5}}
+{{range where .Site.RegularPages "Section" "posts" | first 3}}
 
 <h2><a class="link" href="{{ .RelPermalink}}">{{ .Title}}</a></h2>
 <h3>{{ .Date.Format "2 January 2006" }}</h3>
