@@ -11,7 +11,7 @@ Produced during the summer and autumn of 2023, this album tries to capture the f
 
 If this sounds interesting to you, you can listen to and purchase it on [Bandcamp](https://shroudedhermit.bandcamp.com/album/cold-hands). Alternatively, you can give it a listen on [YouTube](https://www.youtube.com/watch?v=uU2rJ0vvsXo). 
 
-Due to the obscurity of this project, it is not currently available on streaming services nor is there any physical release. Thus, if you would like to support my musical endeavors, a digital purchase would be greatly appreciated! 
+Due to the obscurity of this project, it is not currently available on streaming services nor is there any physical release. Thus, if you would like to support my musical endeavors, a digital purchase would be greatly appreciated!
 
 <a class="center" id="coldhands-a" href="https://shroudedhermit.bandcamp.com/album/cold-hands"><img src="/coldhands.jpg" id="coldhands" alt="cold hands album cover"></a>
 <br>
