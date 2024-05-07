@@ -16,4 +16,4 @@ Hi, thanks for stopping by! This website is intended to serve as a general hub d
 
 [📚 Library](/library)
 
-[📧 Contact](mailto:adam@adamheitzman.xyz?cc=adamheitzman01@gmail.com)
+[📧 Contact](mailto:adam@adamheitzman.xyz)
