@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Rhetoric and Poetics",
+    "author_last": "Aristotle",
+    "genre": "phil"
+  },
+  {
     "title": "Meditations",
     "author_last": "Aurelius",
     "author_first": "Marcus",
@@ -14,6 +19,12 @@
   {
     "title": "Bronze Age Mindset",
     "author_last": "Bronze Age Pervert",
+    "genre": "phil"
+  },
+  {
+    "title": "The Story of Philosophy",
+    "author_last": "Durant",
+    "author_first": "Will",
     "genre": "phil"
   },
   {
@@ -42,7 +53,13 @@
   {
     "title": "On the Geneaology of Morals",
     "author_last": "Nietzsche",
-    "author_first": "Friedrich ",
+    "author_first": "Friedrich",
+    "genre": "phil"
+  },
+  {
+    "title": "The Portable Nietzsche",
+    "author_last": "Nietzsche",
+    "author_first": "Friedrich",
     "genre": "phil"
   },
   {
@@ -358,15 +375,15 @@
     "genre": "bio"
   },
   {
-    "title": "Mine Were of Trouble",
-    "author_last": "Kemp",
-    "author_first": "Peter",
-    "genre": "bio"
-  },
-  {
     "title": "The Storm of Steel",
     "author_last": "Jünger",
     "author_first": "Ernst",
+    "genre": "bio"
+  },
+  {
+    "title": "Mine Were of Trouble",
+    "author_last": "Kemp",
+    "author_first": "Peter",
     "genre": "bio"
   },
   {
@@ -418,6 +435,12 @@
     "genre": "nonfiction"
   },
   {
+    "title": "Thirty Years that Shook Physics",
+    "author_last": "Gamow",
+    "author_first": "George",
+    "genre": "nonfiction"
+  },
+  {
     "title": "Rebuilding Milo",
     "author_last": "Horschig",
     "author_first": "Aaron",
@@ -461,6 +484,12 @@
   {
     "title": "U.S. Army Survival Manual: FM 21-76",
     "author_last": "United States Department of Defense",
+    "genre": "nonfiction"
+  },
+  {
+    "title": "Foxfire 5",
+    "author_last": "Wigginton",
+    "author_first": "Eliot",
     "genre": "nonfiction"
   },
   { 
