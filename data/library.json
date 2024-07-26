@@ -57,6 +57,12 @@
     "genre": "phil"
   },
   {
+    "title": "The Book of Five Rings",
+    "author_last": "Miyamoto",
+    "author_first": "Musashi",
+    "genre": "phil"
+  },
+  {
     "title": "On the Geneaology of Morals",
     "author_last": "Nietzsche",
     "author_first": "Friedrich",
@@ -77,6 +83,12 @@
     "title": "The Problems of Philosophy",
     "author_last": "Russell",
     "author_first": "Bertrand ",
+    "genre": "phil"
+  },
+  {
+    "title": "The Mystery of Consciousness",
+    "author_last": "Searle",
+    "author_first": "John",
     "genre": "phil"
   },
   {
@@ -417,6 +429,12 @@
     "genre": "tea"
   },
   {
+    "title": "The Book of Tea",
+    "author_last": "Okakura",
+    "author_first": "Kakuzō",
+    "genre": "tea"
+  },
+  {
     "title": "The Story of Japanese Tea",
     "author_last": "Sōsen",
     "author_first": "Tyas",
@@ -507,6 +525,18 @@
   {
     "title": "First Latin Book",
     "author_last": "Collar & Daniell",
+    "genre": "lang"
+  },
+  {
+    "title": "Beginning Chinese",
+    "author_last": "DeFrancis",
+    "author_first": "John",
+    "genre": "lang"
+  },
+  {
+    "title": "Beginning Chinese Reader, Part 1",
+    "author_last": "DeFrancis",
+    "author_first": "John",
     "genre": "lang"
   },
   {
