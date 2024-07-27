@@ -226,3 +226,7 @@ a:hover{
 .libtitle {
     color: var(--yellow);
 }
+
+.dono {
+    font-size: 12px;
+}
