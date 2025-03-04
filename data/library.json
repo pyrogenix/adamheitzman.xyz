@@ -57,6 +57,12 @@
     "genre": "phil"
   },
   {
+    "title": "Liberty and Property",
+    "author_last": "Mises",
+    "author_first": "Ludwig von",
+    "genre": "phil"
+  },
+  {
     "title": "The Book of Five Rings",
     "author_last": "Miyamoto",
     "author_first": "Musashi",
@@ -402,6 +408,12 @@
     "title": "Mine Were of Trouble",
     "author_last": "Kemp",
     "author_first": "Peter",
+    "genre": "bio"
+  },
+  {
+    "title": "Permanent Record",
+    "author_last": "Snowden",
+    "author_first": "Edward",
     "genre": "bio"
   },
   {
