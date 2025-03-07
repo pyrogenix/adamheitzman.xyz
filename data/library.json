@@ -441,6 +441,12 @@
     "genre": "tea"
   },
   {
+    "title": "Liquid Jade: The Story of Tea from East to West",
+    "author_last": "Hohenegger",
+    "author_first": "Beatrice",
+    "genre": "tea"
+  },
+  {
     "title": "The Book of Tea",
     "author_last": "Okakura",
     "author_first": "Kakuzō",
@@ -468,12 +474,6 @@
     "title": "CompTIA Network+ N10-008 Exam Cram",
     "author_last": "Dulaney",
     "author_first": "Emmett",
-    "genre": "nonfiction"
-  },
-  {
-    "title": "Thirty Years that Shook Physics",
-    "author_last": "Gamow",
-    "author_first": "George",
     "genre": "nonfiction"
   },
   {
