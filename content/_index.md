@@ -6,7 +6,7 @@ Hi, thanks for stopping by! This website is intended to serve as a general hub d
 
 {{< homepage >}}
 
-[🎧 My Latest Album](https://shroudedhermit.bandcamp.com/album/cold-hands)
+[🎧 RESIN8](https://resin8.xyz)
 
 [📸 Photography](https://photography.adamheitzman.xyz)
 
