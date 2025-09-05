@@ -1,8 +1,0 @@
-builddrafts = true
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
-[params]
-    favicon = "/favicon.ico"
